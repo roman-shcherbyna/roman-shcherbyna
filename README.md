@@ -16,12 +16,15 @@
 - ![UA](https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1e6.svg) **Українська**
 
 
-- ## 🌐 Languages
+## 🌍 Languages
 
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-blue?style=for-the-badge)
-![Polish](https://img.shields.io/badge/Polish-Intermediate-blue?style=for-the-badge)
+<ul>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png" width="20"/> <strong>English</strong></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f1.png" width="20"/> <strong>Polski</strong></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1fa.png" width="20"/> <strong>Русский</strong></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png" width="20"/> <strong>Українська</strong></li>
+</ul>
+
 
 ## 💻 About Me
 
