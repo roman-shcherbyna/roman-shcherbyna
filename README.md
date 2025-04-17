@@ -12,9 +12,9 @@
 ## 🌐 Languages
 
 - **English**: Professional working proficiency
-- **Russian**: Native proficiency  
-- **Ukrainian**: Full professional proficiency
-- **Polish**: Professional working proficiency
+- **Russian**: Native proficiency
+- **Ukrainian**: Native proficiency
+- **Polish**: Full professional proficiency
 
 ## 💻 About Me
 
