@@ -11,11 +11,10 @@
 
 ## 🌐 Languages
 
-- :us: English - Professional working proficiency
-- :ru: Russian - Native proficiency
-- :ukraine: Ukrainian - Full professional proficiency
-- :poland: Polish - Professional working proficiency
-
+- :earth_americas: **English**: Professional working proficiency
+- :earth_asia: **Russian**: Native proficiency  
+- :earth_africa: **Ukrainian**: Full professional proficiency
+- :earth_europe: **Polish**: Professional working proficiency
 
 ## 💻 About Me
 
