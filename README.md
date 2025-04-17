@@ -10,10 +10,10 @@
 
 ## 🌐 Languages
 
-- 🇺🇸 English - Fluent
-- 🇷🇺 Russian - Native
-- 🇺🇦 Ukrainian - Fluent
-- 🇵🇱 Polish - Intermediate
+- 🇺🇸 English
+- 🇷🇺 Russian
+- 🇺🇦 Ukrainian
+- 🇵🇱 Polish
 
 ## 💻 About Me
 
