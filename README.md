@@ -76,7 +76,6 @@ I'm a passionate full-stack developer with extensive experience in web developme
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roman-shcherbyna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-shcherbyna&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
