@@ -8,14 +8,13 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
-## 🌍 Available Languages
 
 ## 🌐 Languages
 
-- **English**: Professional working proficiency
-- **Russian**: Native proficiency
-- **Ukrainian**: Full professional proficiency
-- **Polish**: Professional working proficiency
+- :us: English - Professional working proficiency
+- :ru: Russian - Native proficiency
+- :ukraine: Ukrainian - Full professional proficiency
+- :poland: Polish - Professional working proficiency
 
 
 ## 🌍 Languages
