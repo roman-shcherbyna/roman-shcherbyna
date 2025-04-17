@@ -15,6 +15,13 @@
 - 🇺🇦 Ukrainian
 - 🇵🇱 Polish
 
+- ## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-blue?style=for-the-badge)
+![Polish](https://img.shields.io/badge/Polish-Intermediate-blue?style=for-the-badge)
+
 ## 💻 About Me
 
 I'm a passionate full-stack developer with extensive experience in web development, automation solutions, and data processing. I enjoy creating efficient and elegant solutions to complex problems, with a focus on clean code and user-centered design.
