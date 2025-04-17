@@ -80,17 +80,6 @@ I'm a passionate full-stack developer with extensive experience in web developme
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-shcherbyna&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🔥 Featured Projects
-
-### Project 1
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=roman-shcherbyna&repo=project1&theme=tokyonight)](https://github.com/roman-shcherbyna/project1)
-
-### Project 2
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=roman-shcherbyna&repo=project2&theme=tokyonight)](https://github.com/roman-shcherbyna/project2)
-
-### Project 3
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=roman-shcherbyna&repo=project3&theme=tokyonight)](https://github.com/roman-shcherbyna/project3)
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations, collaboration opportunities, and new challenges. Feel free to reach out if you'd like to discuss technology, projects, or potential work opportunities.
