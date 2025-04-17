@@ -8,6 +8,13 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
+## 🌐 Languages
+
+- 🇺🇸 English - Fluent
+- 🇷🇺 Russian - Native
+- 🇺🇦 Ukrainian - Fluent
+- 🇵🇱 Polish - Intermediate
+
 ## 💻 About Me
 
 I'm a passionate full-stack developer with extensive experience in web development, automation solutions, and data processing. I enjoy creating efficient and elegant solutions to complex problems, with a focus on clean code and user-centered design.
