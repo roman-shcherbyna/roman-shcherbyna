@@ -8,7 +8,9 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
-![Programmer GIF](resources/gif/1721197464294.gif)
+<div align="center">
+  <img src="resources/gif/1721197464294.gif" width="400" alt="Programmer GIF">
+</div>
 
 ## 🌐 Languages
 
