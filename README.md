@@ -10,10 +10,10 @@
 
 ## 🌍 Available Languages
 
-- 🇬🇧 **English**
-- 🇵🇱 **Polski**
-- 🇷🇺 **Русский**
-- 🇺🇦 **Українська**
+- ![EN](https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg) **English**
+- ![PL](https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f1.svg) **Polski**
+- ![RU](https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fa.svg) **Русский**
+- ![UA](https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1e6.svg) **Українська**
 
 
 - ## 🌐 Languages
