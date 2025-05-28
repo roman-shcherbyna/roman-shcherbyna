@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Roman
+# 👋 Hi guys, welcome to my GitHub!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Data+Enthusiast;Automation+Expert" alt="Typing SVG" />
