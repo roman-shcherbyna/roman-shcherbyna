@@ -20,12 +20,11 @@
 
 ## 💻 About Me
 
-I'm a passionate full-stack developer with extensive experience in web development, automation solutions, and data processing. I enjoy creating efficient and elegant solutions to complex problems, with a focus on clean code and user-centered design.
+Full stack developer with experience contributing to large-scale and impactful projects. I place a strong emphasis on clean code, well-structured architecture, and high-quality implementation. I always see tasks through to completion, no matter how challenging they are. There are no limits or barriers for me — I continuously grow and strive to become a top-level expert in my field.
 
-- 🔭 I'm currently working on **RedInGo**
+- 🔭 Currently working on **RedInGo**
 - 🌱 I'm always learning and exploring new technologies
 - 💡 I love developing automation systems that save time and improve efficiency
-- 📊 Data-driven problem solver with a keen eye for patterns and insights
 - 🚀 Committed to continuous improvement and professional growth
 
 ## 🛠️ Tech Stack
