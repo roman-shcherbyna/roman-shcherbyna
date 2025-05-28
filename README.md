@@ -9,7 +9,6 @@
 
   [![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://software-engineer.pro/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-shcherbyna-b264052aa/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashcherbyna@gmail.com)
 </div>
 
 ## 🌐 Languages
