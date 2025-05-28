@@ -62,7 +62,7 @@ Full stack developer with experience contributing to large-scale and impactful p
 ### Tools & OS
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![PIP](https://img.shields.io/badge/PIP-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-333333?style=for-the-badge&logo=composer&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-4A4A4A?style=for-the-badge&logo=composer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
