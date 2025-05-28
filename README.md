@@ -89,7 +89,3 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐️ From roman-shcherbyna(https://github.com/roman-shcherbyna)</i>
-</div>
