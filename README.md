@@ -16,7 +16,7 @@
 - **English**: Team communication, documentation reading, everyday conversation (B1)
 - **Russian**: Native proficiency
 - **Ukrainian**: Native proficiency
-- **Polish**: Full professional proficiency
+- **Polish**: I can handle any situation (C1)
 
 ## 💻 About Me
 
