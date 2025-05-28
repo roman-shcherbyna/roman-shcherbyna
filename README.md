@@ -7,7 +7,8 @@
 <div align="center">
   <img src="resources/gif/1721197464294.gif" width="400" alt="Programmer GIF">
 
-  <div align="center" style=" margin-top: 10px;">
+
+  <div align="center">
     [![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://software-engineer.pro/)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-shcherbyna-b264052aa/)
   </div>
