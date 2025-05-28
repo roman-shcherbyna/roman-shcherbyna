@@ -13,7 +13,7 @@
 
 ## 🌐 Languages
 
-- **English**: Professional working proficiency
+- **English**(B1): Team communication, documentation reading, everyday conversation
 - **Russian**: Native proficiency
 - **Ukrainian**: Native proficiency
 - **Polish**: Full professional proficiency
