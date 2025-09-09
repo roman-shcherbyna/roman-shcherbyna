@@ -13,7 +13,7 @@
 
 ## 🌐 Languages
 
-- **English**: Team communication, documentation reading, everyday conversation (B1)
+- **English**: Team communication, documentation reading, everyday conversation (B2)
 - **Russian**: Native proficiency
 - **Ukrainian**: Native proficiency
 - **Polish**: I can handle any situation (C1)
